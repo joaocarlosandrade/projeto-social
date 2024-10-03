@@ -45,3 +45,10 @@ section#rede-sociais img:hover {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.623);
     transition: transform .3s, border 1s;
 }
+iframe#tela {
+    position: relative;
+   top: 80px;
+   left:22px;
+   height: 471px;
+   width: 269px;
+}
